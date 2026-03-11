@@ -1,0 +1,4 @@
+.last-index
+.env
+images/*
+!images/.gitkeep
