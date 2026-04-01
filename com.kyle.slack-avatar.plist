@@ -9,16 +9,30 @@
   <array>
     <string>/bin/sh</string>
     <string>-c</string>
-    <string>cd /Users/kyle/dev/slack-avatar &amp;&amp; /Users/kyle/.bun/bin/bun run rotate.ts</string>
+    <string>cd /Users/kyle/dev/slack-avatar &amp;&amp; /opt/homebrew/bin/bun run rotate.ts</string>
   </array>
 
   <key>StartCalendarInterval</key>
-  <dict>
-    <key>Hour</key>
-    <integer>9</integer>
-    <key>Minute</key>
-    <integer>30</integer>
-  </dict>
+  <array>
+    <dict>
+      <key>Hour</key>
+      <integer>9</integer>
+      <key>Minute</key>
+      <integer>15</integer>
+    </dict>
+    <dict>
+      <key>Hour</key>
+      <integer>12</integer>
+      <key>Minute</key>
+      <integer>0</integer>
+    </dict>
+    <dict>
+      <key>Hour</key>
+      <integer>15</integer>
+      <key>Minute</key>
+      <integer>0</integer>
+    </dict>
+  </array>
 
   <key>StandardOutPath</key>
   <string>/tmp/slack-avatar.log</string>
