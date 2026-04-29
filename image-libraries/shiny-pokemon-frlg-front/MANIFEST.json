@@ -1,0 +1,916 @@
+{
+  "source": "https://www.projectshinydex.com/fire-red-and-leaf-green",
+  "asset": "frontShiny",
+  "downloadedAt": "2026-04-29T21:12:16.627Z",
+  "reportedTotal": 151,
+  "count": 151,
+  "skipped": [],
+  "items": [
+    {
+      "number": "1",
+      "pokemon": "Bulbasaur",
+      "file": "001-bulbasaur.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_219a549a24164e208bc6865696713032~mv2.png"
+    },
+    {
+      "number": "2",
+      "pokemon": "Ivysaur",
+      "file": "002-ivysaur.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_c479ca57fb9c4cadb3fdda407df98c69~mv2.png"
+    },
+    {
+      "number": "3",
+      "pokemon": "Venusaur",
+      "file": "003-venusaur.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_924a23247ff548cc863b9a7326315057~mv2.png"
+    },
+    {
+      "number": "4",
+      "pokemon": "Charmander",
+      "file": "004-charmander.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_abfaf6b79e77474f9570902653c8a41b~mv2.png"
+    },
+    {
+      "number": "5",
+      "pokemon": "Charmeleon",
+      "file": "005-charmeleon.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_37483794f5f749308c16e16d8bb3b3b3~mv2.png"
+    },
+    {
+      "number": "6",
+      "pokemon": "Charizard",
+      "file": "006-charizard.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_aac945610f9046ff8d9c859a5e23864f~mv2.png"
+    },
+    {
+      "number": "7",
+      "pokemon": "Squirtle",
+      "file": "007-squirtle.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_1b8cfde15950426cba3b29ed7e0077e0~mv2.png"
+    },
+    {
+      "number": "8",
+      "pokemon": "Wartortle",
+      "file": "008-wartortle.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_96c8096edad44138baaf92da152830fa~mv2.png"
+    },
+    {
+      "number": "9",
+      "pokemon": "Blastoise",
+      "file": "009-blastoise.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_979b6a9dd1404355b185acba256d51bc~mv2.png"
+    },
+    {
+      "number": "10",
+      "pokemon": "Caterpie",
+      "file": "010-caterpie.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_8f8f09d96dc64e9da35978b354a16588~mv2.png"
+    },
+    {
+      "number": "11",
+      "pokemon": "Metapod",
+      "file": "011-metapod.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_4794b3a598f04089b3325056254fa424~mv2.png"
+    },
+    {
+      "number": "12",
+      "pokemon": "Butterfree",
+      "file": "012-butterfree.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_fe85612810194949b1d59795a6c8ef70~mv2.png"
+    },
+    {
+      "number": "13",
+      "pokemon": "Weedle",
+      "file": "013-weedle.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_6428911c1cfe4b0f9520112cf9337556~mv2.png"
+    },
+    {
+      "number": "14",
+      "pokemon": "Kakuna",
+      "file": "014-kakuna.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_bc4a3aa608084f46b2d643d4c3e62c9f~mv2.png"
+    },
+    {
+      "number": "15",
+      "pokemon": "Beedrill",
+      "file": "015-beedrill.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_39110fc3d910413a8e225d8f436b66af~mv2.png"
+    },
+    {
+      "number": "16",
+      "pokemon": "Pidgey",
+      "file": "016-pidgey.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_cb4fd2764cd4446c8ed805db31a2426e~mv2.png"
+    },
+    {
+      "number": "17",
+      "pokemon": "Pidgeotto",
+      "file": "017-pidgeotto.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_4a5fd7db3ace45a8aef27cac9948ef01~mv2.png"
+    },
+    {
+      "number": "18",
+      "pokemon": "Pidgeot",
+      "file": "018-pidgeot.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_e2011dc0d54c4e1dbb02ea13254a491d~mv2.png"
+    },
+    {
+      "number": "19",
+      "pokemon": "Rattata",
+      "file": "019-rattata.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_0f10f3064e774e18a14697cc1a90df31~mv2.png"
+    },
+    {
+      "number": "20",
+      "pokemon": "Raticate",
+      "file": "020-raticate.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_d519a32f3ff5444398fb7c5aaf06d03d~mv2.png"
+    },
+    {
+      "number": "21",
+      "pokemon": "Spearow",
+      "file": "021-spearow.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_b010762209224443ae289af0cfd2e3cc~mv2.png"
+    },
+    {
+      "number": "22",
+      "pokemon": "Fearow",
+      "file": "022-fearow.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_8267107d729b43d28253ba01535e47a1~mv2.png"
+    },
+    {
+      "number": "23",
+      "pokemon": "Ekans",
+      "file": "023-ekans.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_06954f57c92b45f68dab728ff4418880~mv2.png"
+    },
+    {
+      "number": "24",
+      "pokemon": "Arbok",
+      "file": "024-arbok.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_21ebeaa45a764e159585b6dd0d7027c0~mv2.png"
+    },
+    {
+      "number": "25",
+      "pokemon": "Pikachu",
+      "file": "025-pikachu.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_38c3ad9d04774106b41259367081996f~mv2.png"
+    },
+    {
+      "number": "26",
+      "pokemon": "Raichu",
+      "file": "026-raichu.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_5969b74737454991bd00280d06390822~mv2.png"
+    },
+    {
+      "number": "27",
+      "pokemon": "Sandshrew",
+      "file": "027-sandshrew.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_88fd434648be44bfaf5968535edcdd1e~mv2.png"
+    },
+    {
+      "number": "28",
+      "pokemon": "Sandslash",
+      "file": "028-sandslash.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_aae4b3c11aff48d0a9626a1c742ee374~mv2.png"
+    },
+    {
+      "number": "29",
+      "pokemon": "Nidoran F",
+      "file": "029-nidoran-f.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_3d2f6115ebe540529bb38649a2a9a14b~mv2.png"
+    },
+    {
+      "number": "30",
+      "pokemon": "Nidorina",
+      "file": "030-nidorina.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_a0dea83963264bfd87ce084329979237~mv2.png"
+    },
+    {
+      "number": "31",
+      "pokemon": "Nidoqueen",
+      "file": "031-nidoqueen.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_b68cbbf05fa948dab60c4b4f5634a436~mv2.png"
+    },
+    {
+      "number": "32",
+      "pokemon": "Nidoran M",
+      "file": "032-nidoran-m.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_bcd4214067e1413a9efc18994f5361c4~mv2.png"
+    },
+    {
+      "number": "33",
+      "pokemon": "Nidorino",
+      "file": "033-nidorino.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_6374a30030124dfcb6d6449dc613d0e9~mv2.png"
+    },
+    {
+      "number": "34",
+      "pokemon": "Nidoking",
+      "file": "034-nidoking.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_37deaa5550ec4b9f9b0902f21152112a~mv2.png"
+    },
+    {
+      "number": "35",
+      "pokemon": "Clefairy",
+      "file": "035-clefairy.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_f84d913f565d4188b75f727d844d34bc~mv2.png"
+    },
+    {
+      "number": "36",
+      "pokemon": "Clefable",
+      "file": "036-clefable.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_e2b5be21db63418599c8de00dc55a277~mv2.png"
+    },
+    {
+      "number": "37",
+      "pokemon": "Vulpix",
+      "file": "037-vulpix.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_f1b107064c184421a9318265ee26cad2~mv2.png"
+    },
+    {
+      "number": "38",
+      "pokemon": "Ninetales",
+      "file": "038-ninetales.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_4117ee045719486fbddef06e8f859a0c~mv2.png"
+    },
+    {
+      "number": "39",
+      "pokemon": "Jigglypuff",
+      "file": "039-jigglypuff.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_f11d5dff16d14cffb8b92f5f1ce0fb51~mv2.png"
+    },
+    {
+      "number": "40",
+      "pokemon": "Wigglytuff",
+      "file": "040-wigglytuff.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_7da6db2934b448aba23ce0b49b94457b~mv2.png"
+    },
+    {
+      "number": "41",
+      "pokemon": "Zubat",
+      "file": "041-zubat.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_c8855efc16754e6ba845d1d19b6e04ff~mv2.png"
+    },
+    {
+      "number": "42",
+      "pokemon": "Golbat",
+      "file": "042-golbat.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_daf173df672a4422b5891120febfc034~mv2.png"
+    },
+    {
+      "number": "43",
+      "pokemon": "Oddish",
+      "file": "043-oddish.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_b6f5d494606a451bbc7e06cc8800be06~mv2.png"
+    },
+    {
+      "number": "44",
+      "pokemon": "Gloom",
+      "file": "044-gloom.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_245b8e507fac4d6ca4b897a1d224c224~mv2.png"
+    },
+    {
+      "number": "45",
+      "pokemon": "Vileplume",
+      "file": "045-vileplume.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_edc58fd4b8b04def9249a2b86b2dbd1b~mv2.png"
+    },
+    {
+      "number": "46",
+      "pokemon": "Paras",
+      "file": "046-paras.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_ea191898572f4438b07ca5b904b19055~mv2.png"
+    },
+    {
+      "number": "47",
+      "pokemon": "Parasect",
+      "file": "047-parasect.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_4157df9849bb4aa5a2fe84fad85514c6~mv2.png"
+    },
+    {
+      "number": "48",
+      "pokemon": "Venonat",
+      "file": "048-venonat.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_cede49ca9dab46089824bccf2548d3e5~mv2.png"
+    },
+    {
+      "number": "49",
+      "pokemon": "Venomoth",
+      "file": "049-venomoth.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_c4f7c951466c4ba0aa94830b1379fa10~mv2.png"
+    },
+    {
+      "number": "50",
+      "pokemon": "Diglett",
+      "file": "050-diglett.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_69da36c2f7d245d2884cde2cebe0c70a~mv2.png"
+    },
+    {
+      "number": "51",
+      "pokemon": "Dugtrio",
+      "file": "051-dugtrio.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_84353e222f184e449101a1fdae42f209~mv2.png"
+    },
+    {
+      "number": "52",
+      "pokemon": "Meowth",
+      "file": "052-meowth.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_a2a58ede8a3d4dde9b1e4dfd8a62850e~mv2.png"
+    },
+    {
+      "number": "53",
+      "pokemon": "Persian",
+      "file": "053-persian.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_416fd75d9b844ac496efe68ce1ceb1c7~mv2.png"
+    },
+    {
+      "number": "54",
+      "pokemon": "Psyduck",
+      "file": "054-psyduck.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_43ca625ac6304b3d85ba527514a091f6~mv2.png"
+    },
+    {
+      "number": "55",
+      "pokemon": "Golduck",
+      "file": "055-golduck.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_c5f7ae5c70d04bc48e0495c98e8934a5~mv2.png"
+    },
+    {
+      "number": "56",
+      "pokemon": "Mankey",
+      "file": "056-mankey.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_65694e3af18543fe82f6ba0c1a8d482d~mv2.png"
+    },
+    {
+      "number": "57",
+      "pokemon": "Primeape",
+      "file": "057-primeape.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_65a256e1b5b24997a9425d0b998e7381~mv2.png"
+    },
+    {
+      "number": "58",
+      "pokemon": "Growlithe",
+      "file": "058-growlithe.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_9c91d2166b8246a9a4114ad22f9918ab~mv2.png"
+    },
+    {
+      "number": "59",
+      "pokemon": "Arcanine",
+      "file": "059-arcanine.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_3930ab6b40ea495dbba3fec4584b2f46~mv2.png"
+    },
+    {
+      "number": "60",
+      "pokemon": "Poliwag",
+      "file": "060-poliwag.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_4f506b52cd4d4ac5abe296d6b8254169~mv2.png"
+    },
+    {
+      "number": "61",
+      "pokemon": "Poliwhirl",
+      "file": "061-poliwhirl.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_c5695681b8f645dd81b04bbc6e592794~mv2.png"
+    },
+    {
+      "number": "62",
+      "pokemon": "Poliwrath",
+      "file": "062-poliwrath.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_8fd38a813d444892997a33b711c511eb~mv2.png"
+    },
+    {
+      "number": "63",
+      "pokemon": "Abra",
+      "file": "063-abra.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_c4212b6df53548abb4197fcb5523060d~mv2.png"
+    },
+    {
+      "number": "64",
+      "pokemon": "Kadabra",
+      "file": "064-kadabra.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_6237aa633f9d46ff89874aa64113fc9f~mv2.png"
+    },
+    {
+      "number": "65",
+      "pokemon": "Alakazam",
+      "file": "065-alakazam.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_8a95b62e8f164b1bad5856bb4bd7e3fe~mv2.png"
+    },
+    {
+      "number": "66",
+      "pokemon": "Machop",
+      "file": "066-machop.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_94ec0e08f6c643d79d358992ffcd3cd3~mv2.png"
+    },
+    {
+      "number": "67",
+      "pokemon": "Machoke",
+      "file": "067-machoke.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_35048f8ae6ad4f44b7aee0e01207b700~mv2.png"
+    },
+    {
+      "number": "68",
+      "pokemon": "Machamp",
+      "file": "068-machamp.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_daef1903dd7c44259d3b6f0b84a94faf~mv2.png"
+    },
+    {
+      "number": "69",
+      "pokemon": "Bellsprout",
+      "file": "069-bellsprout.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_60e9adb13fec4abdae654eae7e38e946~mv2.png"
+    },
+    {
+      "number": "70",
+      "pokemon": "Weepinbell",
+      "file": "070-weepinbell.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_07cacff29ef04c43a11e6a648f0059b7~mv2.png"
+    },
+    {
+      "number": "71",
+      "pokemon": "Victreebel",
+      "file": "071-victreebel.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_f6490ef9f73943d28a08dd8ae401add4~mv2.png"
+    },
+    {
+      "number": "72",
+      "pokemon": "Tentacool",
+      "file": "072-tentacool.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_e916111dd97943d2a4810801c874a299~mv2.png"
+    },
+    {
+      "number": "73",
+      "pokemon": "Tentacruel",
+      "file": "073-tentacruel.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_efff91243cc047b88536a8e55c2feb59~mv2.png"
+    },
+    {
+      "number": "74",
+      "pokemon": "Geodude",
+      "file": "074-geodude.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_bfae0a6fa5b6428c8bad4f968b2258f6~mv2.png"
+    },
+    {
+      "number": "75",
+      "pokemon": "Graveler",
+      "file": "075-graveler.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_8c49b8f99b384a8e93537c49caf4234c~mv2.png"
+    },
+    {
+      "number": "76",
+      "pokemon": "Golem",
+      "file": "076-golem.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_93050f51c01c45a38be71833178b7995~mv2.png"
+    },
+    {
+      "number": "77",
+      "pokemon": "Ponyta",
+      "file": "077-ponyta.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_f8359f0152b244518345685012040d0c~mv2.png"
+    },
+    {
+      "number": "78",
+      "pokemon": "Rapidash",
+      "file": "078-rapidash.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_ef203e6b7bc74e7fb7743c9841ff8778~mv2.png"
+    },
+    {
+      "number": "79",
+      "pokemon": "Slowpoke",
+      "file": "079-slowpoke.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_90a1b16fb017491f95b94dfe4af2c6f8~mv2.png"
+    },
+    {
+      "number": "80",
+      "pokemon": "Slowbro",
+      "file": "080-slowbro.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_159b4686f5954a8488df0faeb972ce0c~mv2.png"
+    },
+    {
+      "number": "81",
+      "pokemon": "Magnemite",
+      "file": "081-magnemite.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_f1c34f70c4fa4f8fb96f960cedcce40e~mv2.png"
+    },
+    {
+      "number": "82",
+      "pokemon": "Magneton",
+      "file": "082-magneton.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_0b54ecb07aae421ab0eec1d9225b3e2f~mv2.png"
+    },
+    {
+      "number": "83",
+      "pokemon": "Farfetch'd",
+      "file": "083-farfetch-d.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_c9a19b03030441838a74e9e376992e80~mv2.png"
+    },
+    {
+      "number": "84",
+      "pokemon": "Doduo",
+      "file": "084-doduo.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_675ebbee58b245feab9f421d6c18ec0b~mv2.png"
+    },
+    {
+      "number": "85",
+      "pokemon": "Dodrio",
+      "file": "085-dodrio.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_7da090be586d4ed1ae010401e6e69ca2~mv2.png"
+    },
+    {
+      "number": "86",
+      "pokemon": "Seel",
+      "file": "086-seel.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_50c1b72f8ec24bc7bef29ee11b82d529~mv2.png"
+    },
+    {
+      "number": "87",
+      "pokemon": "Dewgong",
+      "file": "087-dewgong.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_fabf224101d6424a9bd1176b61653b6b~mv2.png"
+    },
+    {
+      "number": "88",
+      "pokemon": "Grimer",
+      "file": "088-grimer.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_bb66c08c079649288bae246a5165a53a~mv2.png"
+    },
+    {
+      "number": "89",
+      "pokemon": "Muk",
+      "file": "089-muk.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_91660b2d9ee7451dafaa6d57952eb60d~mv2.png"
+    },
+    {
+      "number": "90",
+      "pokemon": "Shellder",
+      "file": "090-shellder.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_8e3a7b76b47a42b98e0e087e78290be1~mv2.png"
+    },
+    {
+      "number": "91",
+      "pokemon": "Cloyster",
+      "file": "091-cloyster.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_e92d7798598443d5a23aa061b5a02c3a~mv2.png"
+    },
+    {
+      "number": "92",
+      "pokemon": "Gastly",
+      "file": "092-gastly.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_af7185828df14c109cbaff46827cf010~mv2.png"
+    },
+    {
+      "number": "93",
+      "pokemon": "Haunter",
+      "file": "093-haunter.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_2940a6e1532e40669db30e0dd00de566~mv2.png"
+    },
+    {
+      "number": "94",
+      "pokemon": "Gengar",
+      "file": "094-gengar.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_47d580a4e7bc45b7a7f8c3758fea10f4~mv2.png"
+    },
+    {
+      "number": "95",
+      "pokemon": "Onix",
+      "file": "095-onix.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_7769879e31294f099d5ad4e6e96fee69~mv2.png"
+    },
+    {
+      "number": "96",
+      "pokemon": "Drowzee",
+      "file": "096-drowzee.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_4322a98ba4324897bfa5e016fa5ef0a0~mv2.png"
+    },
+    {
+      "number": "97",
+      "pokemon": "Hypno",
+      "file": "097-hypno.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_043f18d989ac4cd59daa2544af907a9a~mv2.png"
+    },
+    {
+      "number": "98",
+      "pokemon": "Krabby",
+      "file": "098-krabby.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_33726bae87424dbe85725f25cd9a8f67~mv2.png"
+    },
+    {
+      "number": "99",
+      "pokemon": "Kingler",
+      "file": "099-kingler.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_a41fac8a7abc48789145a080ea2620d6~mv2.png"
+    },
+    {
+      "number": "100",
+      "pokemon": "Voltorb",
+      "file": "100-voltorb.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_6c02c2540a4349d38bb6c0a348cd121e~mv2.png"
+    },
+    {
+      "number": "101",
+      "pokemon": "Electrode",
+      "file": "101-electrode.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_bd44b02ed9df4e8ea2f92ea630988336~mv2.png"
+    },
+    {
+      "number": "102",
+      "pokemon": "Exeggcute",
+      "file": "102-exeggcute.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_ac8a4d41e0934dc78485bed6aeb39670~mv2.png"
+    },
+    {
+      "number": "103",
+      "pokemon": "Exeggutor",
+      "file": "103-exeggutor.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_7a48b183ff134775b456573df9e1103a~mv2.png"
+    },
+    {
+      "number": "104",
+      "pokemon": "Cubone",
+      "file": "104-cubone.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_e913ed26fbf74013b981a535c5462529~mv2.png"
+    },
+    {
+      "number": "105",
+      "pokemon": "Marowak",
+      "file": "105-marowak.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_32c1931c4d754f1d8bd7594cfc5d4282~mv2.png"
+    },
+    {
+      "number": "106",
+      "pokemon": "Hitmonlee",
+      "file": "106-hitmonlee.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_50bf71e44afe4988ac95c3068bb44c04~mv2.png"
+    },
+    {
+      "number": "107",
+      "pokemon": "Hitmonchan",
+      "file": "107-hitmonchan.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_47fd9e6deebd446e8bd17a14659d5a19~mv2.png"
+    },
+    {
+      "number": "108",
+      "pokemon": "Lickitung",
+      "file": "108-lickitung.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_5f01d069c7f44ebc8205b0a0b484add8~mv2.png"
+    },
+    {
+      "number": "109",
+      "pokemon": "Koffing",
+      "file": "109-koffing.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_65c72ba44bef4d0e9520233fcf8052fa~mv2.png"
+    },
+    {
+      "number": "110",
+      "pokemon": "Weezing",
+      "file": "110-weezing.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_3a47e00fcdb649b5bd1e5f7094d236ac~mv2.png"
+    },
+    {
+      "number": "111",
+      "pokemon": "Rhyhorn",
+      "file": "111-rhyhorn.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_a47f212d4ef245e58d781ab42650d02c~mv2.png"
+    },
+    {
+      "number": "112",
+      "pokemon": "Rhydon",
+      "file": "112-rhydon.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_d5205a640c1240eeabcc4c8249fb5d8e~mv2.png"
+    },
+    {
+      "number": "113",
+      "pokemon": "Chansey",
+      "file": "113-chansey.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_1f37d92e37a74a21b140cb0bf221c0ba~mv2.png"
+    },
+    {
+      "number": "114",
+      "pokemon": "Tangela",
+      "file": "114-tangela.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_90837cf859694cb0b10cb80a209b790a~mv2.png"
+    },
+    {
+      "number": "115",
+      "pokemon": "Kangaskhan",
+      "file": "115-kangaskhan.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_58ad96fbad694c3a9a1a92249b4d2785~mv2.png"
+    },
+    {
+      "number": "116",
+      "pokemon": "Horsea",
+      "file": "116-horsea.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_e6570715134a47c0a077c257427edc3c~mv2.png"
+    },
+    {
+      "number": "117",
+      "pokemon": "Seadra",
+      "file": "117-seadra.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_b02b86a6cf7544b9910e205a3d323e59~mv2.png"
+    },
+    {
+      "number": "118",
+      "pokemon": "Goldeen",
+      "file": "118-goldeen.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_88979b8a287344f79b4c2065bbf5a8a9~mv2.png"
+    },
+    {
+      "number": "119",
+      "pokemon": "Seaking",
+      "file": "119-seaking.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_f948fadfad1b4dcea73a06b74e8c239f~mv2.png"
+    },
+    {
+      "number": "120",
+      "pokemon": "Staryu",
+      "file": "120-staryu.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_872ccfe312fd47efa3e9b8101b74f0e7~mv2.png"
+    },
+    {
+      "number": "121",
+      "pokemon": "Starmie",
+      "file": "121-starmie.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_0560518f2b1346de9a1ff87981fbacf6~mv2.png"
+    },
+    {
+      "number": "122",
+      "pokemon": "Mr. Mime",
+      "file": "122-mr-mime.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_69f81fa16c1547e5b49e37e40491e22c~mv2.png"
+    },
+    {
+      "number": "123",
+      "pokemon": "Scyther",
+      "file": "123-scyther.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_275c0f6ece064dfd8709601652006c2c~mv2.png"
+    },
+    {
+      "number": "124",
+      "pokemon": "Jynx",
+      "file": "124-jynx.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_b21e8f8765814d488ec11d035a6d41c7~mv2.png"
+    },
+    {
+      "number": "125",
+      "pokemon": "Electabuzz",
+      "file": "125-electabuzz.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_c4fc6773fb3e4f3e98a148a217af01b0~mv2.png"
+    },
+    {
+      "number": "126",
+      "pokemon": "Magmar",
+      "file": "126-magmar.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_a8a7b4f0ab624e5586ce0b02e3cbad22~mv2.png"
+    },
+    {
+      "number": "127",
+      "pokemon": "Pinsir",
+      "file": "127-pinsir.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_708cba418b6e4ec090f7969e12db55c5~mv2.png"
+    },
+    {
+      "number": "128",
+      "pokemon": "Tauros",
+      "file": "128-tauros.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_620384f5fdb342a8932d39a5a735085f~mv2.png"
+    },
+    {
+      "number": "129",
+      "pokemon": "Magikarp",
+      "file": "129-magikarp.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_43a787bb521a459bbb16c7aeb60188cb~mv2.png"
+    },
+    {
+      "number": "130",
+      "pokemon": "Gyarados",
+      "file": "130-gyarados.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_554b6a40bde24136b798407bb8dad9b3~mv2.png"
+    },
+    {
+      "number": "131",
+      "pokemon": "Lapras",
+      "file": "131-lapras.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_a0821476826d4fe2bd6b038141b68ed1~mv2.png"
+    },
+    {
+      "number": "132",
+      "pokemon": "Ditto",
+      "file": "132-ditto.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_5d5cbf40d14c4434a98777c66065cc2c~mv2.png"
+    },
+    {
+      "number": "133",
+      "pokemon": "Eevee",
+      "file": "133-eevee.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_c3a8546da8d542a3947be772e13395c8~mv2.png"
+    },
+    {
+      "number": "134",
+      "pokemon": "Vaporeon",
+      "file": "134-vaporeon.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_cf220219df38417c8d5fff1f3c07a043~mv2.png"
+    },
+    {
+      "number": "135",
+      "pokemon": "Jolteon",
+      "file": "135-jolteon.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_929add41a5b24e3aa6ff13022c9d9e19~mv2.png"
+    },
+    {
+      "number": "136",
+      "pokemon": "Flareon",
+      "file": "136-flareon.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_6fc94d1291de49a0a8942f1d150f7b71~mv2.png"
+    },
+    {
+      "number": "137",
+      "pokemon": "Porygon",
+      "file": "137-porygon.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_6e5a30546e7b4ab0980c093ef54a3414~mv2.png"
+    },
+    {
+      "number": "138",
+      "pokemon": "Omanyte",
+      "file": "138-omanyte.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_f3e7ae8d59264cd6b1aca195af76a22c~mv2.png"
+    },
+    {
+      "number": "139",
+      "pokemon": "Omastar",
+      "file": "139-omastar.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_1b0846198a1a468c9d10dd7392a00d9b~mv2.png"
+    },
+    {
+      "number": "140",
+      "pokemon": "Kabuto",
+      "file": "140-kabuto.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_73396d6a4db0440ca45f143a2096314d~mv2.png"
+    },
+    {
+      "number": "141",
+      "pokemon": "Kabutops",
+      "file": "141-kabutops.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_1f5a856880c74133aa0d0eb4f26fd17c~mv2.png"
+    },
+    {
+      "number": "142",
+      "pokemon": "Aerodactyl",
+      "file": "142-aerodactyl.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_ec9b830433d54c2f97820ef8be011049~mv2.png"
+    },
+    {
+      "number": "143",
+      "pokemon": "Snorlax",
+      "file": "143-snorlax.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_e94fbdc5ba6743dea7ef9ad065d24c05~mv2.png"
+    },
+    {
+      "number": "144",
+      "pokemon": "Articuno",
+      "file": "144-articuno.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_3a60ae7b37bf434684318b3eaa9c4f34~mv2.png"
+    },
+    {
+      "number": "145",
+      "pokemon": "Zapdos",
+      "file": "145-zapdos.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_371cda829e7449a2838a37824c7bcf42~mv2.png"
+    },
+    {
+      "number": "146",
+      "pokemon": "Moltres",
+      "file": "146-moltres.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_896b8933ae2d4829b2d9be74480f69d8~mv2.png"
+    },
+    {
+      "number": "147",
+      "pokemon": "Dratini",
+      "file": "147-dratini.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_fd153bf1e53740edab4e9f904efba352~mv2.png"
+    },
+    {
+      "number": "148",
+      "pokemon": "Dragonair",
+      "file": "148-dragonair.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_00990ada34e342beb35cd7e4ad1202b8~mv2.png"
+    },
+    {
+      "number": "149",
+      "pokemon": "Dragonite",
+      "file": "149-dragonite.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_b6ef5d8e128e4d068010ccfb6b150222~mv2.png"
+    },
+    {
+      "number": "150",
+      "pokemon": "Mewtwo",
+      "file": "150-mewtwo.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_105c44a0431a4fc6bf92be9433927e4b~mv2.png"
+    },
+    {
+      "number": "151",
+      "pokemon": "Mew",
+      "file": "151-mew.png",
+      "sourceUrl": "https://static.wixstatic.com/media/b8cb22_6ed748270ddb4832966526d1efc13e06~mv2.png"
+    }
+  ]
+}

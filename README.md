@@ -27,6 +27,20 @@ Paste your token into `.env`.
 
 Drop `.png`, `.jpg`, `.gif`, or `.webp` files into the `images/` folder. They rotate in alphabetical order — prefix with numbers (`01-foo.png`, `02-bar.png`) to control the sequence.
 
+The Project ShinyDex front shiny sprite archives live in:
+
+- `image-libraries/shiny-pokemon-rse-front/`
+- `image-libraries/shiny-pokemon-frlg-front/`
+
+Copy files from those archive folders into `images/` to update the active rotation bucket.
+
+To refresh them:
+
+```bash
+bun run scripts/download-rse-front-shiny.ts
+bun run scripts/download-frlg-front-shiny.ts
+```
+
 ### 4. Test
 
 ```bash
