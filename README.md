@@ -31,6 +31,7 @@ The Project ShinyDex front shiny sprite archives live in:
 
 - `image-libraries/shiny-pokemon-rse-front/`
 - `image-libraries/shiny-pokemon-frlg-front/`
+- `image-libraries/pmdcollab-pokemon-profile-avatars/`
 
 Copy files from those archive folders into `images/` to update the active rotation bucket.
 
@@ -39,6 +40,7 @@ To refresh them:
 ```bash
 bun run scripts/download-rse-front-shiny.ts
 bun run scripts/download-frlg-front-shiny.ts
+bun run scripts/download-pmdcollab-profile-avatars.ts
 ```
 
 ### 4. Test
